@@ -1,2 +1,2 @@
-# Boostrap-simple-web
+# Bootstrap-simple-web
 Bootstrap-simple-web
